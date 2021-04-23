@@ -1,0 +1,92 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6d241c52-d8f5-4ef7-8fcc-4b1335c7fc86"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1619095531961+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1619095531961+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "a64eb826-4dc1-45fb-a5ac-d768275eb719",
+          "Value": "7f50d7ed-f49f-4109-8cb4-91ed1850a605",
+          "DisplayValue": "Может редактировать цену недвижимости"
+        },
+        {
+          "SchemaColumnUId": "9d032101-3db5-4bba-ab16-294104cd15ad",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "423b165f-9759-437b-b532-95ef1b78063b",
+          "Value": "8dde850b-379d-4e50-99ec-b6cc41aff2d3",
+          "DisplayValue": "Finance"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e1f978af-3b07-4c9f-a422-c6170cd1b1a4",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1c163eb4-59c9-4883-9181-960158a86308"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1619095538361+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1619095538361+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "a64eb826-4dc1-45fb-a5ac-d768275eb719",
+          "Value": "7f50d7ed-f49f-4109-8cb4-91ed1850a605",
+          "DisplayValue": "Может редактировать цену недвижимости"
+        },
+        {
+          "SchemaColumnUId": "9d032101-3db5-4bba-ab16-294104cd15ad",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "423b165f-9759-437b-b532-95ef1b78063b",
+          "Value": "7f3b869f-34f3-4f20-ab4d-7480a5fdf647",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e1f978af-3b07-4c9f-a422-c6170cd1b1a4",
+          "Value": true
+        }
+      ]
+    }
+  ]
+}

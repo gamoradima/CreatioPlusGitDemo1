@@ -7,7 +7,7 @@ define("UsrRealty1Page", ["RightUtilities"], function(RightUtilities) {
 				"value": true
 			},
 			"UsrCommissionUSD": {
-                // Массив конфигурационных объектов, определяющих зависимости колонки [UsrCommissionUSD].
+                // Массив конфигурационных объектов, определяющих зависимости колонки [UsrCommissionUSD]
                 dependencies: [
                     {
                         // Значение колонки [UsrCommissionUSD] зависит от значений колонок [UsrPriceUSD] 
@@ -104,6 +104,9 @@ define("UsrRealty1Page", ["RightUtilities"], function(RightUtilities) {
 			
 			calculateCommission: function() {
 				var price = this.get("UsrPriceUSD");
+				if (!price) {
+					price = 0;
+				}
 				var offerTypeObject = this.get("UsrOfferType");
 				var coeff = 0;
 				if (offerTypeObject) {

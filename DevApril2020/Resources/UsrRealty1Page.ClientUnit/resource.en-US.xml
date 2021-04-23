@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Недвижимость&quot;" />
+			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="Моя кнопка" />
+			<Item Name="LocalizableStrings.STRINGe30dd8cfdf7044c698fe2978add7923bTip.Value" Value="Тут можно описать особенности объекта недвижимости и любые другие важные сведения." />
+			<Item Name="LocalizableStrings.Tab1b5e1f74TabLabelTabCaption.Value" Value="Просмотры" />
+			<Item Name="LocalizableStrings.UsrSchemab892bd01Detailda320671DetailCaptionOnPage.Value" Value="Просмотр недвижимости" />
+			<Item Name="LocalizableStrings.ValueMustBePositive.Value" Value="Значение должно быть больше 0" />
+		</Items>
+	</Group>
+</Resources>
